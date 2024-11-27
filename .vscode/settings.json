@@ -1,0 +1,10 @@
+{
+
+  "files.watcherExclude": {
+    "**/target": true
+
+  },
+  "files.associations": {
+    "vector": "cpp"
+  }
+}
